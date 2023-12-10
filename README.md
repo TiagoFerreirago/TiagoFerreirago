@@ -5,9 +5,6 @@
 <br/><br/>
 
 
-
-![Tferr GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagoferreira&show_icons=true&theme=radical)
-
 <h2>Tecnologia que eu uso</h2>
 
 <div style= "display: inline_block"><br/>
@@ -20,7 +17,7 @@
 <img align ="center" alt="PostGres"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br/>
 
-<h3>apaixonado por tecnologia e novos conhecimentos, inclinado a mudar vidas através da programação.</h3>
+<h3>Apaixonado por tecnologia e novos conhecimentos, motivado a mudar vidas através da programação.</h3>
 
 <h2>Email</h2>
 
